@@ -1,0 +1,4 @@
+2022-02-24 18:53:34:5334 [31merror[39m: [31mGET - name is not defined  - /weather - ::1[39m
+2022-02-24 18:56:28:5628 [31merror[39m: [31mGET - axios is not defined  - /weather - ::1[39m
+2022-02-25 11:45:14:4514 [31merror[39m: [31mGET - Not Found  - / - ::1[39m
+2022-02-25 11:47:21:4721 [31merror[39m: [31mGET - Not Found  - /favicon.ico - ::1[39m
